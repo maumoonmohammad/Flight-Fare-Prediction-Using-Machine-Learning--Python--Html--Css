@@ -1,0 +1,16 @@
+This is how my project is supposed to run.
+
+INSTRUCTIONS
+
+open the flask app which is actually named as “Flask_app” to run my model, once you run the code a local server would be generated. Click on the server to go to the final webpage and input the values to get the final output.
+
+File named “machine_learning_model” is the actual model that we built in Jupyter notebook and then we have dumped this file using the pickle library and the pick files are “flight_fare_prediction1” and ”input_flight_fare1”. These files connect our model and the flask app.
+
+The HTML file is in the template folder and the CSS file in static folder
+
+The “data_Train” is the training data used I used to train my model
+
+IMPORTANT: the files “flight.css” and “flight10.jpg” should be in the folder named “static” otherwise my program would not run. Since we can only upload files and not folders. The file “Flight_price.html” should be in “templates” folder in order to make our program run smoothly
+
+
+THANK YOU
