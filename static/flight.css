@@ -1,0 +1,48 @@
+body {
+
+  background-image: url('flight10.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+
+
+
+
+}
+#bdi{
+  text-align: center;
+  font-family: Georgia,serif;
+  font-size: 20px;
+
+
+}
+#search input[type="submit"]{
+  text-align: center;
+  width: 200px;
+  height: 30px;
+  margin-left: 80px;
+  font-size: 15px;
+  border-radius: 25px 25px 25px 25px;
+  border: none;
+}
+
+
+
+
+.myform{
+  background-color: black;
+  opacity: 0.7;
+
+
+}
+
+.white{
+color: white;
+}
+
+.output-div{
+  color:white
+}
+
+
+

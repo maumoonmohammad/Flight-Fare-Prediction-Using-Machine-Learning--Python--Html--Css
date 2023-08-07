@@ -1,0 +1,2 @@
+.pickle filter=lfs diff=lfs merge=lfs -text
+flight_fare_prediction1.pickle filter=lfs diff=lfs merge=lfs -text
