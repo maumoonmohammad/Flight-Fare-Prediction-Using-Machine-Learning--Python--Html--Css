@@ -1,6 +1,6 @@
 # Flight Fare Prediction (Machine Learning)
 
-A machine learning web application that predicts domestic flight fares. A Random Forest model is trained in a Jupyter notebook, saved with pickle, and served through a Flask web app where users enter their flight details into a form to get a predicted ticket price.
+A machine learning web application that predicts flight fares. A Random Forest model is trained in a Jupyter notebook, saved with pickle, and served through a Flask web app where users enter their flight details into a form to get a predicted ticket price.
 
 ## How It Works
 
